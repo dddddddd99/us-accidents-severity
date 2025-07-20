@@ -1,4 +1,4 @@
-This project uses machine learning to predict the severity of road accidents based on weather and environmental data. It was completed as part of my coursework.
+This project uses machine learning to predict the severity of road accidents based on weather and environmental data. It was completed as part of my coursework
 
 ## Project Overview
 
