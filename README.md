@@ -9,12 +9,16 @@ I worked with a large dataset of 1.85 million accident records from the US (2016
 ## Tools and Technologies
 
 •	Python (pandas, NumPy, scikit-learn)
+
 •	Data visualization: matplotlib, seaborn
+
 •	Development environment: Jupyter Notebook, PyCharm
 
 ## Key Results
 •	Achieved 94.2% accuracy on the test set
+
 •	Analyzed feature importance to understand which factors most influence accident severity
+
 •	Visualized results with confusion matrix and feature importance plots
 
 ## How to Use
