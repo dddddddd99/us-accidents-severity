@@ -26,4 +26,12 @@ I worked with a large dataset of 1.85 million accident records from the US (2016
 2.	Run the provided Jupyter Notebook or Python script
 3.	Review model performance metrics and visualizations
 
-Small note: This project uses the US Accidents dataset from Kaggle and is intended for educational and portfolio use only.
+*Note: This project uses the US Accidents dataset from Kaggle and is intended for educational and portfolio use only.
+
+## Additional Research
+
+For a more in-depth explanation of this project, including background research, methodology, and reasoning behind key decisions, you can view the detailed research report I authored below:
+
+ [Download Full Research Report (PDF)](./Traffic_Severity_Prediction_Research.pdf)
+
+*Note: For personal privacy, some identifying details have been anonymized.*
