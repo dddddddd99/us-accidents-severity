@@ -25,3 +25,5 @@ I worked with a large dataset of 1.85 million accident records from the US (2016
 1.	Download the US Accidents dataset (US_Accidents_Dec20.csv) from Kaggle (https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 2.	Run the provided Jupyter Notebook or Python script
 3.	Review model performance metrics and visualizations
+
+Small note: This project uses the US Accidents dataset from Kaggle and is intended for educational and portfolio use only.
